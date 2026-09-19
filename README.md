@@ -1,16 +1,18 @@
-## Hi there 👋
+# Souhail Karam
 
-<!--
-**ForeignVisitor/ForeignVisitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering M.Sc. student at the University of Passau, focused on Data Engineering, Machine Learning, and Software Engineering.
 
-Here are some ideas to get you started:
+- M.Sc. AI Engineering, University of Passau — thesis expected January 2027
+- Open to Working Student roles now, full-time from March 2027 — Germany, open to relocation
+- Portfolio: https://souhail-karam.vercel.app
+- LinkedIn: https://www.linkedin.com/in/souhail-karam/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **[mlab](https://github.com/ForeignVisitor/mlab-machine-learning-project)** — From-scratch ML library (NumPy): regression, trees, ensembles, SVM, and neural nets, applied to real classification and regression datasets.
+- **[llm-drawio-generator](https://github.com/ForeignVisitor/llm-drawio-generator)** — LLM system (Qwen 2.5) that generates, edits, and explains Draw.io diagrams from natural language prompts.
+- **[BrainMRIExplorer](https://github.com/ForeignVisitor/BrainMRIExplorer)** — Interactive MRI slice viewer with CNN-based anomaly detection, built on the BraTS 2020 dataset.
+
+## Skills
+
+Python · SQL · PyTorch · TensorFlow · Scikit-learn · Pandas / NumPy · PostgreSQL / MySQL · Apache Hadoop / HDFS · Docker · AWS / Azure / GCP
